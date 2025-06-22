@@ -1,4 +1,4 @@
-# Learnify# Learnify
+# Learnify # 
 
 **Learnify** to nowoczesna aplikacja webowa typu e-learning, umożliwiająca użytkownikom dostęp do szerokiej gamy kursów online. Platforma została zaprojektowana z myślą o intuicyjnej obsłudze, responsywności i wsparciu dla dwóch języków.
 
